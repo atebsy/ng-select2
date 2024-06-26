@@ -1,10 +1,10 @@
 {
-  "name": "ng-select2",
+  "name": "ng-select2-atebsy",
   "version": "1.4.1",
   "description": "Angular wrapper component of jQuery select2.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/tealpartners/ng-select2/"
+    "url": "https://github.com/atebsy/ng-select2"
   },
   "keywords": [
     "select2",
@@ -17,8 +17,8 @@
   ],
   "license": "MIT",
   "peerDependencies": {
-    "@angular/common": "^13.0.0",
-    "@angular/core": "^13.0.0",
+    "@angular/common": "^15.2.10",
+    "@angular/core": "^15.2.10",
     "@types/jquery": "3.5.x",
     "@types/select2": "^4.0.x",
     "select2": "^4.0.x",

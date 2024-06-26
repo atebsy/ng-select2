@@ -146,5 +146,8 @@
       }
     }
   },
-  "defaultProject": "test-client"
+  "defaultProject": "test-client",
+  "cli": {
+    "analytics": false
+  }
 }
