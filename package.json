@@ -1,6 +1,6 @@
 {
   "name": "ng-select2-atebsy",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "dependencies": {
     "@angular/animations": "15.2.10",
     "@angular/common": "15.2.10",
