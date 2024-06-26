@@ -1,0 +1,1 @@
+{"version":3,"file":"ng-select2.interface.d.ts","sourceRoot":"","sources":["../../../projects/ng-select2/src/lib/ng-select2.interface.ts"],"names":[],"mappings":"AAAA,MAAM,WAAW,iBAAiB;IAChC,EAAE,EAAE,MAAM,CAAC;IACX,IAAI,EAAE,MAAM,CAAC;IACb,QAAQ,CAAC,EAAE,OAAO,CAAC;IACnB,QAAQ,CAAC,EAAE,KAAK,CAAC,iBAAiB,CAAC,CAAC;IACpC,UAAU,CAAC,EAAE,GAAG,CAAC;CAClB"}

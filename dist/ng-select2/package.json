@@ -1,0 +1,53 @@
+{
+  "name": "ng-select2-atebsy",
+  "version": "1.4.1",
+  "description": "Angular wrapper component of jQuery select2.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/atebsy/ng-select2"
+  },
+  "keywords": [
+    "select2",
+    "angular"
+  ],
+  "author": "Muhammad Arsal Abdullah <muhammadarsal.mail@gmail.com>",
+  "contributors": [
+    "Muhammad Arsal Abdullah <muhammadarsal.mail@gmail.com>",
+    "Stijn Goethals <stijn@tealpartners.com>"
+  ],
+  "license": "MIT",
+  "peerDependencies": {
+    "@angular/common": "^15.2.10",
+    "@angular/core": "^15.2.10",
+    "@types/jquery": "3.5.x",
+    "@types/select2": "^4.0.x",
+    "select2": "^4.0.x",
+    "jquery": "3.5.x"
+  },
+  "dependencies": {
+    "tslib": "^2.0.0"
+  },
+  "module": "fesm2015/ng-select2-atebsy.mjs",
+  "es2020": "fesm2020/ng-select2-atebsy.mjs",
+  "esm2020": "esm2020/ng-select2-atebsy.mjs",
+  "fesm2020": "fesm2020/ng-select2-atebsy.mjs",
+  "fesm2015": "fesm2015/ng-select2-atebsy.mjs",
+  "typings": "index.d.ts",
+  "exports": {
+    "./package.json": {
+      "default": "./package.json"
+    },
+    ".": {
+      "types": "./index.d.ts",
+      "esm2020": "./esm2020/ng-select2-atebsy.mjs",
+      "es2020": "./fesm2020/ng-select2-atebsy.mjs",
+      "es2015": "./fesm2015/ng-select2-atebsy.mjs",
+      "node": "./fesm2015/ng-select2-atebsy.mjs",
+      "default": "./fesm2020/ng-select2-atebsy.mjs"
+    }
+  },
+  "sideEffects": false,
+  "scripts": {
+    "prepublishOnly": "node --eval \"console.error('ERROR: Trying to publish a package that has been compiled by Ivy in full compilation mode. This is not allowed.\\nPlease delete and rebuild the package with Ivy partial compilation mode, before attempting to publish.\\n')\" && exit 1"
+  }
+}

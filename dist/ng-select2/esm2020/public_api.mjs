@@ -1,0 +1,7 @@
+/*
+ * Public API Surface of ng-select2
+ */
+export * from './lib/ng-select2.component';
+export * from './lib/ng-select2.module';
+export * from './lib/ng-select2.interface';
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoicHVibGljX2FwaS5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uL3Byb2plY3RzL25nLXNlbGVjdDIvc3JjL3B1YmxpY19hcGkudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUE7O0dBRUc7QUFFSCxjQUFjLDRCQUE0QixDQUFDO0FBQzNDLGNBQWMseUJBQXlCLENBQUM7QUFDeEMsY0FBYyw0QkFBNEIsQ0FBQyIsInNvdXJjZXNDb250ZW50IjpbIi8qXG4gKiBQdWJsaWMgQVBJIFN1cmZhY2Ugb2Ygbmctc2VsZWN0MlxuICovXG5cbmV4cG9ydCAqIGZyb20gJy4vbGliL25nLXNlbGVjdDIuY29tcG9uZW50JztcbmV4cG9ydCAqIGZyb20gJy4vbGliL25nLXNlbGVjdDIubW9kdWxlJztcbmV4cG9ydCAqIGZyb20gJy4vbGliL25nLXNlbGVjdDIuaW50ZXJmYWNlJztcbiJdfQ==
